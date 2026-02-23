@@ -35,19 +35,17 @@ Despite I have professional experience in **embedded and aerospace software veri
 - Embedded Systems.
 
 ---
-\
+
 **Some projects you will find here:**
 
-✔ [MCU Traffic Light](https://github.com/alfonso-caoz/mcu-traffic-light) - An embedded project implementing a traffic light with a microcontroller ATtiny4313 programmed in C.
-
-✔ [PDF and EPUB Edition App - Version 2.0 (Spanish)](https://github.com/alfonso-caoz/AplicacionEdicion_PDF_EPUB) - An initial PDF file edition Android app that I upgraded to edit files in EPUB format, developed in Java.
-
-✔ [Data Structures and Algorithms](https://github.com/alfonso-caoz/DSA) - A repository where I document my DSA journey, solving LeetCode exercises in C++ with Big O notation in mind.
+- [MCU Traffic Light](https://github.com/alfonso-caoz/mcu-traffic-light) - An embedded project implementing a traffic light with a microcontroller ATtiny4313 programmed in C.
+- [PDF and EPUB Edition App - Version 2.0 (Spanish)](https://github.com/alfonso-caoz/AplicacionEdicion_PDF_EPUB) - An initial PDF file edition Android app that I upgraded to edit files in EPUB format, developed in Java.
+- [Data Structures and Algorithms](https://github.com/alfonso-caoz/DSA) - A repository where I document my DSA journey, solving LeetCode exercises in C++ with Big O notation in mind.
 
 This GitHub is a continuous work in progress, improving existing projects and creating new ones.
 
 ---
-\
+
 **I am actively working on my coding skills, and interested in opportunities like:**
 
 - Software Engineering - C++ Development.
