@@ -35,10 +35,10 @@ I'm **Alfonso**, a **Software Engineer** based in Costa Rica. I enjoy building p
 
 **Some projects you will find here:**
 
-- [MCU Traffic Light Controller:](https://github.com/alfonso-caoz/mcu-traffic-light-controller) Embedded project implementing a traffic light with a microcontroller ATtiny4313, programmed in C.
+- [MCU Traffic Light Controller:](https://github.com/alfonso-caoz/mcu-traffic-light-controller) Embedded project implementing a traffic light with a microcontroller ATtiny4313 (C).
 
-- [PDF and EPUB Edition App - v2.0 (Spanish):](https://github.com/alfonso-caoz/AplicacionEdicion_PDF_EPUB) Upgraded Android PDF editing app by extending EPUB format support, developed in Java.
+- [PDF and EPUB Edition App - v2.0 (Spanish):](https://github.com/alfonso-caoz/AplicacionEdicion_PDF_EPUB) Upgraded Android PDF editing app by extending EPUB format support (Java).
 
-- [Data Structures and Algorithms (DSA):](https://github.com/alfonso-caoz/dsa-cpp) DSA exercises solved in C++, considering time and space complexity.
+- [Data Structures and Algorithms (DSA):](https://github.com/alfonso-caoz/dsa-cpp) DSA exercises solved considering time and space complexity (C++).
 
 > **Note:** This GitHub is a continuous work in progress, improving existing projects and creating new ones.
