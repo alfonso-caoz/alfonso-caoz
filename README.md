@@ -24,30 +24,21 @@ The README Checklist:
 
 ### **Hi there!** 👋
 
-I'm **Alfonso**, a Software Engineer based in Costa Rica. I enjoy building projects that involve software and hardware solutions, due to my background in **software engineering**, **electrical engineering**, and **mechanical engineering**. 
+I'm **Alfonso**, a **Software Engineer** based in Costa Rica. I enjoy building projects that involve software and hardware solutions, due to my background in **electrical** and **mechanical engineering**.
 
-Despite I have professional experience in **embedded and aerospace software verification/validation**, my GitHub is focused on **software development**.
-
-**I am currently working on:**
-
-- **C++**, **C** and **Python** Development, in that order.
-- Software Engineering.
-- Embedded Systems.
+**I am interested in:**
+- **C++**, **C** and **Python** Development
+- Embedded Systems
+- Low-Latency Systems
 
 ---
 
 **Some projects you will find here:**
 
-- [MCU Traffic Light](https://github.com/alfonso-caoz/mcu-traffic-light) - An embedded project implementing a traffic light with a microcontroller ATtiny4313 programmed in C.
-- [PDF and EPUB Edition App - Version 2.0 (Spanish)](https://github.com/alfonso-caoz/AplicacionEdicion_PDF_EPUB) - An initial PDF file edition Android app that I upgraded to edit files in EPUB format, developed in Java.
-- [Data Structures and Algorithms](https://github.com/alfonso-caoz/DSA) - A repository where I document my DSA journey, solving LeetCode exercises in C++ with Big O notation in mind.
+- [MCU Traffic Light Controller:](https://github.com/alfonso-caoz/mcu-traffic-light-controller) Embedded project implementing a traffic light with a microcontroller ATtiny4313, programmed in C.
 
-This GitHub is a continuous work in progress, improving existing projects and creating new ones.
+- [PDF and EPUB Edition App - v2.0 (Spanish):](https://github.com/alfonso-caoz/AplicacionEdicion_PDF_EPUB) Upgraded Android PDF editing app by extending EPUB format support, developed in Java.
 
----
+- [Data Structures and Algorithms (DSA):](https://github.com/alfonso-caoz/dsa-cpp) DSA exercises solved in C++, considering time and space complexity.
 
-**I am actively working on my coding skills, and interested in opportunities like:**
-
-- Software Engineering - C++ Development.
-- Embedded Software Engineering - Development.
-- Low Latency Systems - Development.
+> **Note:** This GitHub is a continuous work in progress, improving existing projects and creating new ones.
