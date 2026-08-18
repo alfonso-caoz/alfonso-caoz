@@ -26,7 +26,7 @@ The README Checklist:
 
 I'm **Alfonso**, a **Software Engineer** based in Costa Rica. I enjoy building projects that involve software and hardware solutions, due to my background in **electrical** and **mechanical engineering**.
 
-**I am interested in:**
+**I am interested in `automation`, including:**
 - **C++**, **C** and **Python** Development
 - Embedded Systems
 - Low-Latency Systems
@@ -35,10 +35,12 @@ I'm **Alfonso**, a **Software Engineer** based in Costa Rica. I enjoy building p
 
 **Some projects you will find here:**
 
-- [MCU Traffic Light Controller:](https://github.com/alfonso-caoz/mcu-traffic-light-controller) Embedded project implementing a traffic light with a microcontroller ATtiny4313 (C).
+- [MCU Traffic Light Controller:](https://github.com/alfonso-caoz/mcu-traffic-light-controller) **Embedded** project implementing a traffic light with a **microcontroller ATtiny4313** (**C**).
 
-- [PDF and EPUB Edition App - v2.0 (Spanish):](https://github.com/alfonso-caoz/AplicacionEdicion_PDF_EPUB) Upgraded an Android PDF editing app by extending EPUB format support (Java).
+- [PDF and EPUB Edition App - v2.0 (Spanish):](https://github.com/alfonso-caoz/AplicacionEdicion_PDF_EPUB) Upgraded an **Android** PDF editing app by extending EPUB format support (**Java**).
 
-- [Data Structures and Algorithms (DSA):](https://github.com/alfonso-caoz/dsa-cpp) DSA exercises solved considering time and space complexity (C++).
+- [VLSI Development Workspace:](https://github.com/alfonso-caoz/vlsi-development-workspace) Monorepo with different independent **VLSI** subprojects, following an **industry-like workflow** and a project management process based on **Agile/Scrum Development**, including an **EDA Environment** for **development** and **testing** (**System Verilog**) - `Work In Progress`.
+
+- [Data Structures and Algorithms (DSA):](https://github.com/alfonso-caoz/dsa-cpp) **DSA** exercises solved considering **time and space complexity** (**C++**) - `Work In Progress`.
 
 > **Note:** This GitHub is a continuous work in progress, improving existing projects and creating new ones.
