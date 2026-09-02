@@ -24,23 +24,22 @@ The README Checklist:
 
 ### **Hi there!** 👋
 
-I'm **Alfonso**, a **Software Engineer** based in Costa Rica. I enjoy building projects that involve software and hardware solutions, due to my background in **electrical** and **mechanical engineering**.
+I'm **Alfonso**, a **Software Engineer** based in Costa Rica with a background in **Electrical and Mechanical Engineering**.
 
-**I am interested in `automation`, including:**
-- **C++**, **C** and **Python** Development
-- Embedded Systems
-- Low-Latency Systems
+I enjoy building systems at the intersection of **software and hardware**, with particular interests in:
+- **C/C++ and Python Development**
+- **Embedded and Low-Level Systems**
+- **VLSI and Digital Systems**
+- **Hardware/Software Integration**
+- **Low-Latency Systems**
+
+This GitHub profile documents my ongoing development through personal, academic, and engineering projects.
 
 ---
 
-**Some projects you will find here:**
+### Featured Projects
+- [VLSI Development Workspace:](https://github.com/alfonso-caoz/vlsi-development-workspace) Monorepo containing independent **VLSI projects**, organized around an **industry-like development workflow** with **Agile/Scrum** practices. Includes a reproducible **Docker-based EDA environment** for VLSI/RTL development and verification - `Work In Progress`.
+- [MCU Traffic Light Controller:](https://github.com/alfonso-caoz/mcu-traffic-light-controller) **Bare-metal embedded** project implementing a vehicular and pedestrian traffic light controller on an **ATtiny4313**, developed in **C** using interrupts, timers, GPIO, and a finite state machine.
+- [Data Structures and Algorithms (DSA):](https://github.com/alfonso-caoz/dsa-cpp) **C++** implementations and problem-solving exercises focused on **data structures, algorithms, and time/space complexity analysis** - `Work In Progress`.
 
-- [MCU Traffic Light Controller:](https://github.com/alfonso-caoz/mcu-traffic-light-controller) **Embedded** project implementing a traffic light with a **microcontroller ATtiny4313** (**C**).
-
-- [PDF and EPUB Edition App - v2.0 (Spanish):](https://github.com/alfonso-caoz/AplicacionEdicion_PDF_EPUB) Upgraded an **Android** PDF editing app by extending EPUB format support (**Java**).
-
-- [VLSI Development Workspace:](https://github.com/alfonso-caoz/vlsi-development-workspace) Monorepo with different independent **VLSI** subprojects, following an **industry-like workflow** and a project management process based on **Agile/Scrum Development**, including an **EDA Environment** for **development** and **testing** (**System Verilog**) - `Work In Progress`.
-
-- [Data Structures and Algorithms (DSA):](https://github.com/alfonso-caoz/dsa-cpp) **DSA** exercises solved considering **time and space complexity** (**C++**) - `Work In Progress`.
-
-> **Note:** This GitHub is a continuous work in progress, improving existing projects and creating new ones.
+> **Note:** This GitHub profile is a continuous work in progress, with projects evolving as I develop deeper skills in software, embedded systems, and hardware.
